@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.05c4a9ab.css",
-    "main.js": "/static/js/main.441f4b23.js",
+    "main.css": "/static/css/main.3225f834.css",
+    "main.js": "/static/js/main.86f45dc1.js",
     "static/js/453.ee54e490.chunk.js": "/static/js/453.ee54e490.chunk.js",
+    "static/media/flow.png": "/static/media/flow.4d27aea2e4e8e690c6b4.png",
+    "static/media/legend.jpg": "/static/media/legend.c67dee541173740ee125.jpg",
+    "static/media/unita-logo.jpg": "/static/media/unita-logo.6a0dc709da4d8c29f071.jpg",
     "index.html": "/index.html",
-    "main.05c4a9ab.css.map": "/static/css/main.05c4a9ab.css.map",
-    "main.441f4b23.js.map": "/static/js/main.441f4b23.js.map",
+    "main.3225f834.css.map": "/static/css/main.3225f834.css.map",
+    "main.86f45dc1.js.map": "/static/js/main.86f45dc1.js.map",
     "453.ee54e490.chunk.js.map": "/static/js/453.ee54e490.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05c4a9ab.css",
-    "static/js/main.441f4b23.js"
+    "static/css/main.3225f834.css",
+    "static/js/main.86f45dc1.js"
   ]
 }
